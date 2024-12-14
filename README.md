@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 <img aling = "center" alt = "muka Windowssql" heigth= "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img aling = "center" alt = "muka Python" heigth= "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img aling = "center" alt = "muka VisualStudio" heigth= "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img aling = "center" alt = "muka Windowssql" heigth= "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-</div>
+
